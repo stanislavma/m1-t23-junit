@@ -1,10 +1,10 @@
 package cookie;
 
-public class FortuneСookieController {
+public class FortuneCookieController {
 
     private final FortuneCookieFactory fortuneCookieFactory;
 
-    public FortuneСookieController(FortuneCookieFactory fortuneCookieFactory) {
+    public FortuneCookieController(FortuneCookieFactory fortuneCookieFactory) {
         this.fortuneCookieFactory = fortuneCookieFactory;
     }
 
